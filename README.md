@@ -1,4 +1,4 @@
-This is a simple Timer project.
+This is a Timer project.
 
 It calculates the time till you stop the timer.
 There are 3 end points, They are GET requests.
